@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172c39fb66ec44148a86296ac8fc4881, type: 3}
+  m_Name: SpiderMan
+  m_EditorClassIdentifier: 
+  name: Spider-Man
+  wiki: Sometimes student, sometimes scientist and sometimes photographer, Peter Parker
+    is a full-time super hero better known as the web-slinging and wall-crawling Spider-Man.
+    As an orphaned child, Peter was raised by his Uncle Ben and Aunt May. At a science
+    expo, Peter was bitten by an errant radioactive spider which granted him an array
+    of arachnid powers. He initially became Spider-Man to use his powers as an entertainer,
+    growing so conceited he didn't bother stopping a passerby burglar. In a twist
+    of fate, the same burglar wound up killing Peter's Uncle Ben, leading him to realize
+    that he needed to use his powers responsibly. From then on, Spider-Man became
+    a crime-fighting vigilante.  Often a loner, Spider-Man is a stalwart member of
+    the super hero community who has earned numerous allies like the Fantastic Four
+    and the Avengers. He has made of numerous super villains his personal enemies,
+    including Doctor Octopus, Electro, Kraven the Hunter, Mysterio, Venom, and most
+    notoriously, his nemesis the Green Goblin, who killed Peter's girlfriend Gwen
+    Stacy. Peter's support network extends to his civilian life, including Mary Jane
+    Watson, Harry Osborn, Flash Thompson, and J. Jonah Jameson, although the latter
+    used to run a smear campaign against the wall-crawler in his newspaper, the Daily
+    Bugle.  Recently, following the rise and fall of his start-up company, Parker
+    Industries, Peter juggled his Spider-Man activities with his return to college,
+    while also becoming the target of torment of a demonic entity known as Kindred.
+    Following Kindred's defeat,[126] Peter was hospitalized for months due to a super
+    villain fight, paving the way for his clone Ben Reilly to reassert himself as
+    Spider-Man. Peter ultimately recovered from his injuries, but also had to come
+    face-to-face against Ben, who had become morally corrupted due to the machinations
+    of his corporate sponsors, the Beyond Corporation.
+  history: []
+  powers:
+    intelligence: 0
+    strength: 0
+    speed: 0
+    durability: 0
+    energyProjection: 0
+    fightingSkills: 0

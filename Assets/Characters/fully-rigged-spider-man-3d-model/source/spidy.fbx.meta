@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: e95ee55675c974cc4bfc1c18ab4d52fd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bicep.L
+    100002: bicep.R
+    100004: butt.L
+    100006: butt.L_end
+    100008: butt.R
+    100010: butt.R_end
+    100012: elbow.L
+    100014: elbow.R
+    100016: foot.L
+    100018: foot.R
+    100020: forearm.L
+    100022: forearm.R
+    100024: glass
+    100026: hand.L
+    100028: hand.R
+    100030: head
+    100032: head_end
+    100034: hip.L
+    100036: hip.R
+    100038: index1.L
+    100040: index1.R
+    100042: index2.L
+    100044: index2.R
+    100046: index3.L
+    100048: index3.L_end
+    100050: index3.R
+    100052: index3.R_end
+    100054: knee.L
+    100056: knee.R
+    100058: leg.L
+    100060: leg.R
+    100062: lens blackout
+    100064: lens1
+    100066: lens2
+    100068: lense covers
+    100070: middle1.L
+    100072: middle1.R
+    100074: middle2.L
+    100076: middle2.R
+    100078: middle3.L
+    100080: middle3.L_end
+    100082: middle3.R
+    100084: middle3.R_end
+    100086: neck
+    100088: pinky1.L
+    100090: pinky1.R
+    100092: pinky2.L
+    100094: pinky2.R
+    100096: pinky3.L
+    100098: pinky3.L_end
+    100100: pinky3.R
+    100102: pinky3.R_end
+    100104: pointer1.L
+    100106: pointer1.R
+    100108: pointer2.L
+    100110: pointer2.R
+    100112: pointer3.L
+    100114: pointer3.L_end
+    100116: pointer3.R
+    100118: pointer3.R_end
+    100120: shin.L
+    100122: shin.R
+    100124: shoulder.L
+    100126: shoulder.R
+    100128: Spider-Man No Way Home Suit
+    100130: Spiderman
+    100132: Spiderman model
+    100134: //RootNode
+    100136: spine1
+    100138: spine1child
+    100140: spine1child_end
+    100142: spine2
+    100144: spine3
+    100146: thumb1.L
+    100148: thumb1.R
+    100150: thumb2.L
+    100152: thumb2.R
+    100154: thumb3.L
+    100156: thumb3.L_end
+    100158: thumb3.R
+    100160: thumb3.R_end
+    100162: toe.L
+    100164: toe.L_end
+    100166: toe.R
+    100168: toe.R_end
+    400000: bicep.L
+    400002: bicep.R
+    400004: butt.L
+    400006: butt.L_end
+    400008: butt.R
+    400010: butt.R_end
+    400012: elbow.L
+    400014: elbow.R
+    400016: foot.L
+    400018: foot.R
+    400020: forearm.L
+    400022: forearm.R
+    400024: glass
+    400026: hand.L
+    400028: hand.R
+    400030: head
+    400032: head_end
+    400034: hip.L
+    400036: hip.R
+    400038: index1.L
+    400040: index1.R
+    400042: index2.L
+    400044: index2.R
+    400046: index3.L
+    400048: index3.L_end
+    400050: index3.R
+    400052: index3.R_end
+    400054: knee.L
+    400056: knee.R
+    400058: leg.L
+    400060: leg.R
+    400062: lens blackout
+    400064: lens1
+    400066: lens2
+    400068: lense covers
+    400070: middle1.L
+    400072: middle1.R
+    400074: middle2.L
+    400076: middle2.R
+    400078: middle3.L
+    400080: middle3.L_end
+    400082: middle3.R
+    400084: middle3.R_end
+    400086: neck
+    400088: pinky1.L
+    400090: pinky1.R
+    400092: pinky2.L
+    400094: pinky2.R
+    400096: pinky3.L
+    400098: pinky3.L_end
+    400100: pinky3.R
+    400102: pinky3.R_end
+    400104: pointer1.L
+    400106: pointer1.R
+    400108: pointer2.L
+    400110: pointer2.R
+    400112: pointer3.L
+    400114: pointer3.L_end
+    400116: pointer3.R
+    400118: pointer3.R_end
+    400120: shin.L
+    400122: shin.R
+    400124: shoulder.L
+    400126: shoulder.R
+    400128: Spider-Man No Way Home Suit
+    400130: Spiderman
+    400132: Spiderman model
+    400134: //RootNode
+    400136: spine1
+    400138: spine1child
+    400140: spine1child_end
+    400142: spine2
+    400144: spine3
+    400146: thumb1.L
+    400148: thumb1.R
+    400150: thumb2.L
+    400152: thumb2.R
+    400154: thumb3.L
+    400156: thumb3.L_end
+    400158: thumb3.R
+    400160: thumb3.R_end
+    400162: toe.L
+    400164: toe.L_end
+    400166: toe.R
+    400168: toe.R_end
+    2100000: 4k
+    2100002: Material.003
+    2100004: lens2.001
+    2100006: lens.001
+    2100008: Material.004
+    2100010: glass.001
+    4300000: Spiderman
+    4300002: lense covers
+    4300004: lens2
+    4300006: lens1
+    4300008: lens blackout
+    4300010: glass
+    9500000: //RootNode
+    13700000: glass
+    13700002: lens blackout
+    13700004: lens1
+    13700006: lens2
+    13700008: lense covers
+    13700010: Spiderman
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4k
+    second: {fileID: 2100000, guid: 51a19549abd114cde909b7de51d5ffdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: f4be30a77d6af4da69a51d62a4154a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 439764dd3fd2e42b3898e1a61bff8be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.001
+    second: {fileID: 2100000, guid: 57f6c5fde0f41497f9ce69c33e3c168a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens.001
+    second: {fileID: 2100000, guid: 07123bb4062be4172acde5e4f9f3ca08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens2.001
+    second: {fileID: 2100000, guid: 24fd8d2212e6449b0a6a884a909a6c9f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

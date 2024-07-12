@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: e27295700241f422daac25d07f502893
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Captain Hand Finger L 0
+    100002: Captain Hand Finger L 1
+    100004: Captain Hand Finger R 0
+    100006: Captain Hand Finger R 1
+    100008: Captain Hand L 0
+    100010: Captain Hand L 1
+    100012: Captain Hand L Shield 0
+    100014: Captain Hand L Shield 1
+    100016: Captain Hand R 0
+    100018: Captain Hand R 1
+    100020: Captain Head Jaw
+    100022: Captain Head Neck
+    100024: Captain Head Neck 1
+    100026: Captain Leg Hips
+    100028: Captain Leg L 0
+    100030: Captain Leg L 1
+    100032: Captain Leg L 2
+    100034: Captain Leg L 3
+    100036: Captain Leg R 0
+    100038: Captain Leg R 1
+    100040: Captain Leg R 2
+    100042: Captain Leg R 3
+    100044: Captain Shoulder L 0
+    100046: Captain Shoulder L 1
+    100048: Captain Shoulder R 0
+    100050: Captain Shoulder R 1
+    100052: Captain Spina 0
+    100054: Captain Spina 1
+    100056: captainAmerica
+    100058: //RootNode
+    100060: Group
+    100062: NOPE 00
+    100064: NOPE 01
+    100066: Shield
+    400000: Captain Hand Finger L 0
+    400002: Captain Hand Finger L 1
+    400004: Captain Hand Finger R 0
+    400006: Captain Hand Finger R 1
+    400008: Captain Hand L 0
+    400010: Captain Hand L 1
+    400012: Captain Hand L Shield 0
+    400014: Captain Hand L Shield 1
+    400016: Captain Hand R 0
+    400018: Captain Hand R 1
+    400020: Captain Head Jaw
+    400022: Captain Head Neck
+    400024: Captain Head Neck 1
+    400026: Captain Leg Hips
+    400028: Captain Leg L 0
+    400030: Captain Leg L 1
+    400032: Captain Leg L 2
+    400034: Captain Leg L 3
+    400036: Captain Leg R 0
+    400038: Captain Leg R 1
+    400040: Captain Leg R 2
+    400042: Captain Leg R 3
+    400044: Captain Shoulder L 0
+    400046: Captain Shoulder L 1
+    400048: Captain Shoulder R 0
+    400050: Captain Shoulder R 1
+    400052: Captain Spina 0
+    400054: Captain Spina 1
+    400056: captainAmerica
+    400058: //RootNode
+    400060: Group
+    400062: NOPE 00
+    400064: NOPE 01
+    400066: Shield
+    2100000: 'Material #50'
+    2100002: Shield
+    4300000: captainAmerica
+    4300002: Shield
+    9500000: //RootNode
+    13700000: captainAmerica
+    13700002: Shield
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: 7285d672809704d79bb00093b7453d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shield
+    second: {fileID: 2100000, guid: 17e975b5a3500467ebacb710f5d39154, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

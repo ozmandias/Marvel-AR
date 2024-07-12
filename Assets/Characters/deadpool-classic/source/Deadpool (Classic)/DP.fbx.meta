@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 68068bed36fb0433da360871349f339c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 40_mesh0_0.1_16_16
+    100002: Armature
+    100004: Camera
+    100006: //RootNode
+    100008: g head
+    100010: g jaw
+    100012: g jaw_end
+    100014: g l ankle
+    100016: g l ball
+    100018: g l ball_end
+    100020: g l biceptwist
+    100022: g l biceptwist_end
+    100024: g l birdy1
+    100026: g l birdy2
+    100028: g l birdy3
+    100030: g l birdy3_end
+    100032: g l clavical
+    100034: g l elbow
+    100036: g l eye
+    100038: g l eye_end
+    100040: g l forarm
+    100042: g l forarm_end
+    100044: g l hip
+    100046: g l hip offset
+    100048: g l index1
+    100050: g l index2
+    100052: g l index3
+    100054: g l index3_end
+    100056: g l knee
+    100058: g l palm
+    100060: g l palm_end
+    100062: g l pinky1
+    100064: g l pinky2
+    100066: g l pinky3
+    100068: g l pinky3_end
+    100070: g l ring1
+    100072: g l ring2
+    100074: g l ring3
+    100076: g l ring3_end
+    100078: g l shoulder
+    100080: g l sword
+    100082: g l sword_end
+    100084: g l thightwist
+    100086: g l thightwist_end
+    100088: g l thumb1
+    100090: g l thumb2
+    100092: g l thumb3
+    100094: g l thumb3_end
+    100096: g l wrist
+    100098: g neck
+    100100: g pelvis
+    100102: g pelvis_end
+    100104: g r ankle
+    100106: g r ball
+    100108: g r ball_end
+    100110: g r biceptwist
+    100112: g r biceptwist_end
+    100114: g r birdy1
+    100116: g r birdy2
+    100118: g r birdy3
+    100120: g r birdy3_end
+    100122: g r clavical
+    100124: g r elbow
+    100126: g r eye
+    100128: g r eye_end
+    100130: g r forarm
+    100132: g r forarm_end
+    100134: g r hip
+    100136: g r hip offset
+    100138: g r index1
+    100140: g r index2
+    100142: g r index3
+    100144: g r index3_end
+    100146: g r knee
+    100148: g r palm
+    100150: g r palm_end
+    100152: g r pinky1
+    100154: g r pinky2
+    100156: g r pinky3
+    100158: g r pinky3_end
+    100160: g r ring1
+    100162: g r ring2
+    100164: g r ring3
+    100166: g r ring3_end
+    100168: g r shoulder
+    100170: g r sword
+    100172: g r sword_end
+    100174: g r thightwist
+    100176: g r thightwist_end
+    100178: g r thumb1
+    100180: g r thumb2
+    100182: g r thumb3
+    100184: g r thumb3_end
+    100186: g r wrist
+    100188: g spine01
+    100190: g spine01 offset
+    100192: g spine02
+    100194: g spine02 offset
+    100196: g spine03
+    100198: g spine03 offset
+    100200: g topeyelid
+    100202: g topeyelid_end
+    100204: Lamp
+    100206: root
+    100208: unused g armikbase
+    100210: unused g armikbase offset
+    100212: unused g breast
+    100214: unused g breast_end
+    100216: unused g l armikeffector
+    100218: unused g l armikeffector_end
+    100220: unused g l legikeffector
+    100222: unused g l legikeffector offset
+    100224: unused g l legikeffector_end
+    100226: unused g r armikeffector
+    100228: unused g r legikeffector
+    100230: unused g r legikeffector offset
+    100232: unused g r legikeffector_end
+    100234: unused g throwable attach
+    100236: unused g throwable attach offset
+    100238: unused g throwable attach_end
+    400000: 40_mesh0_0.1_16_16
+    400002: Armature
+    400004: Camera
+    400006: //RootNode
+    400008: g head
+    400010: g jaw
+    400012: g jaw_end
+    400014: g l ankle
+    400016: g l ball
+    400018: g l ball_end
+    400020: g l biceptwist
+    400022: g l biceptwist_end
+    400024: g l birdy1
+    400026: g l birdy2
+    400028: g l birdy3
+    400030: g l birdy3_end
+    400032: g l clavical
+    400034: g l elbow
+    400036: g l eye
+    400038: g l eye_end
+    400040: g l forarm
+    400042: g l forarm_end
+    400044: g l hip
+    400046: g l hip offset
+    400048: g l index1
+    400050: g l index2
+    400052: g l index3
+    400054: g l index3_end
+    400056: g l knee
+    400058: g l palm
+    400060: g l palm_end
+    400062: g l pinky1
+    400064: g l pinky2
+    400066: g l pinky3
+    400068: g l pinky3_end
+    400070: g l ring1
+    400072: g l ring2
+    400074: g l ring3
+    400076: g l ring3_end
+    400078: g l shoulder
+    400080: g l sword
+    400082: g l sword_end
+    400084: g l thightwist
+    400086: g l thightwist_end
+    400088: g l thumb1
+    400090: g l thumb2
+    400092: g l thumb3
+    400094: g l thumb3_end
+    400096: g l wrist
+    400098: g neck
+    400100: g pelvis
+    400102: g pelvis_end
+    400104: g r ankle
+    400106: g r ball
+    400108: g r ball_end
+    400110: g r biceptwist
+    400112: g r biceptwist_end
+    400114: g r birdy1
+    400116: g r birdy2
+    400118: g r birdy3
+    400120: g r birdy3_end
+    400122: g r clavical
+    400124: g r elbow
+    400126: g r eye
+    400128: g r eye_end
+    400130: g r forarm
+    400132: g r forarm_end
+    400134: g r hip
+    400136: g r hip offset
+    400138: g r index1
+    400140: g r index2
+    400142: g r index3
+    400144: g r index3_end
+    400146: g r knee
+    400148: g r palm
+    400150: g r palm_end
+    400152: g r pinky1
+    400154: g r pinky2
+    400156: g r pinky3
+    400158: g r pinky3_end
+    400160: g r ring1
+    400162: g r ring2
+    400164: g r ring3
+    400166: g r ring3_end
+    400168: g r shoulder
+    400170: g r sword
+    400172: g r sword_end
+    400174: g r thightwist
+    400176: g r thightwist_end
+    400178: g r thumb1
+    400180: g r thumb2
+    400182: g r thumb3
+    400184: g r thumb3_end
+    400186: g r wrist
+    400188: g spine01
+    400190: g spine01 offset
+    400192: g spine02
+    400194: g spine02 offset
+    400196: g spine03
+    400198: g spine03 offset
+    400200: g topeyelid
+    400202: g topeyelid_end
+    400204: Lamp
+    400206: root
+    400208: unused g armikbase
+    400210: unused g armikbase offset
+    400212: unused g breast
+    400214: unused g breast_end
+    400216: unused g l armikeffector
+    400218: unused g l armikeffector_end
+    400220: unused g l legikeffector
+    400222: unused g l legikeffector offset
+    400224: unused g l legikeffector_end
+    400226: unused g r armikeffector
+    400228: unused g r legikeffector
+    400230: unused g r legikeffector offset
+    400232: unused g r legikeffector_end
+    400234: unused g throwable attach
+    400236: unused g throwable attach offset
+    400238: unused g throwable attach_end
+    2000000: Camera
+    2100000: 40_mesh0_0.1_16_16
+    4300000: 40_mesh0_0.1_16_16
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: 40_mesh0_0.1_16_16
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40_mesh0_0.1_16_16
+    second: {fileID: 2100000, guid: 80667398fac46452780a3ec8651e12d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

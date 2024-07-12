@@ -1,0 +1,72 @@
+root: -90 0 0 0 0 0 1 1 1
+g r hip offset: 0 0 0 0 0 0 1 1 1
+g r hip: 0 0 0 0 0 0 1 1 1
+g r knee: 0 0 0 0 0 0 1 1 1
+g r ankle: 0 0 0 0 0 0 1 1 1
+g r ball: 0 0 0 0 0 0 1 1 1
+g r thightwist: 0 0 0 0 0 0 1 1 1
+g l hip offset: 0 0 0 0 0 0 1 1 1
+g l hip: 0 0 0 0 0 0 1 1 1
+g l knee: 0 0 0 0 0 0 1 1 1
+g l ankle: 0 0 0 0 0 0 1 1 1
+g l ball: 0 0 0 0 0 0 1 1 1
+g l thightwist: 0 0 0 0 0 0 1 1 1
+g spine01 offset: 0 0 0 0 0 0 1 1 1
+g spine01: 0 0 0 0 0 0 1 1 1
+g pelvis: 0 0 0 0 0 0 1 1 1
+g spine02 offset: 0 0 0 0 0 0 1 1 1
+g spine02: 0 0 0 0 0 0 1 1 1
+g spine03 offset: 0 0 0 0 0 0 1 1 1
+g spine03: 0 0 0 0 0 0 1 1 1
+g l clavical: 0 0 0 0 0 0 1 1 1
+g l shoulder: 0 0 0 0 0 0 1 1 1
+g l elbow: 0 0 0 0 0 0 1 1 1
+g l forarm: 0 0 0 0 0 0 1 1 1
+g l wrist: 0 0 0 0 0 0 1 1 1
+g l birdy1: 0 0 0 0 0 0 1 1 1
+g l birdy2: 0 0 0 0 0 0 1 1 1
+g l birdy3: 0 0 0 0 0 0 1 1 1
+g l index1: 0 0 0 0 0 0 1 1 1
+g l index2: 0 0 0 0 0 0 1 1 1
+g l index3: 0 0 0 0 0 0 1 1 1
+g l pinky1: 0 0 0 0 0 0 1 1 1
+g l pinky2: 0 0 0 0 0 0 1 1 1
+g l pinky3: 0 0 0 0 0 0 1 1 1
+g l ring1: 0 0 0 0 0 0 1 1 1
+g l ring2: 0 0 0 0 0 0 1 1 1
+g l ring3: 0 0 0 0 0 0 1 1 1
+g l thumb1: 0 0 0 0 0 0 1 1 1
+g l thumb2: 0 0 0 0 0 0 1 1 1
+g l thumb3: 0 0 0 0 0 0 1 1 1
+g l palm: 0 0 0 0 0 0 1 1 1
+g l biceptwist: 0 0 0 0 0 0 1 1 1
+g neck: 0 0 0 0 0 0 1 1 1
+g head: 0 0 0 0 0 0 1 1 1
+g jaw: 0 0 0 0 0 0 1 1 1
+g topeyelid: 0 0 0 0 0 0 1 1 1
+g r eye: 0 0 0 0 0 0 1 1 1
+g l eye: 0 0 0 0 0 0 1 1 1
+g r clavical: 0 0 0 0 0 0 1 1 1
+g r shoulder: 0 0 0 0 0 0 1 1 1
+g r elbow: 0 0 0 0 0 0 1 1 1
+g r forarm: 0 0 0 0 0 0 1 1 1
+g r wrist: 0 0 0 0 0 0 1 1 1
+g r birdy1: 0 0 0 0 0 0 1 1 1
+g r birdy2: 0 0 0 0 0 0 1 1 1
+g r birdy3: 0 0 0 0 0 0 1 1 1
+g r index1: 0 0 0 0 0 0 1 1 1
+g r index2: 0 0 0 0 0 0 1 1 1
+g r index3: 0 0 0 0 0 0 1 1 1
+g r pinky1: 0 0 0 0 0 0 1 1 1
+g r pinky2: 0 0 0 0 0 0 1 1 1
+g r pinky3: 0 0 0 0 0 0 1 1 1
+g r ring1: 0 0 0 0 0 0 1 1 1
+g r ring2: 0 0 0 0 0 0 1 1 1
+g r ring3: 0 0 0 0 0 0 1 1 1
+g r thumb1: 0 0 0 0 0 0 1 1 1
+g r thumb2: 0 0 0 0 0 0 1 1 1
+g r thumb3: 0 0 0 0 0 0 1 1 1
+g r palm: 0 0 0 0 0 0 1 1 1
+g r biceptwist: 0 0 0 0 0 0 1 1 1
+g l sword: 0 0 0 0 0 0 1 1 1
+g r sword: 0 0 0 0 0 0 1 1 1

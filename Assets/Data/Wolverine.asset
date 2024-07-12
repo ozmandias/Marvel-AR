@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172c39fb66ec44148a86296ac8fc4881, type: 3}
+  m_Name: Wolverine
+  m_EditorClassIdentifier: 
+  name: Wolverine
+  wiki: Cursed with a berserker fury, the violent mutant known as Wolverine has a
+    reputation of both as an outstanding super hero and as a lethal killer. Born as
+    James Howlett to a wealthy Canadian family at the end of the 19th century, he
+    was forced to abandon his family after the tragic manifestation of his bestial
+    abilities of accelerated healing factor, keenly enhanced senses and bone claws
+    in each hand. Adopting the name Logan, he wandered the world, living a long life
+    filled with blood, war and betrayal, having vile Sabretooth as his archenemy,
+    and the Japanese warrior Ogun as his sensei. Unfortunately, by acting as a lone
+    wolf, Logan was an unwitting subject of the Weapon X Program and had his bones
+    coated in indestructible Adamantium, becoming an even more lethal asset. Rescued
+    and assisted by Mac and Heather Hudson, he joined Department H as a Canadian government
+    operative known as the Wolverine.  Later, Logan was invited by Charles Xavier
+    to join the X-Men, a team of heroes fighting for peace between humans and mutants.
+    Proving to be a challenging addition to the X-Men due to his aggressive behavior,
+    Wolverine was constantly in conflict with his fellow teammate Cyclops. However,
+    he has gradually grown fond of the X-Men, considering them to be his new family.
+    As a recurrent member of the X-Men, Wolverine has also become a noteworthy member
+    of the Avengers. Moreover, he has been tasked to run the secret mutant strike
+    team known as X-Force to protect mutantkind's interests by employing lethal force.
+    Wolverine was also responsible for reforming the Jean Grey School after parting
+    ways with Cyclops and leading his own faction of X-Men.  When all mutantkind was
+    granted asylum by Professor Xavier on the mutant-exclusive nation of Krakoa, Wolverine
+    was one of the first of its residents.[100] Although currently suspicious of the
+    cost of this apparent safe place for mutants, Wolverine still works as the field
+    leader of X-Force, which evolved as an intelligence organization in charge of
+    special operations to counter-attack assaults against Krakoa.
+  history: []
+  powers:
+    intelligence: 0
+    strength: 0
+    speed: 0
+    durability: 0
+    energyProjection: 0
+    fightingSkills: 0

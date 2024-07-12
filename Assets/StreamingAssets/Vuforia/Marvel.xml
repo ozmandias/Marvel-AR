@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="champions_vol_2_10_x-men_trading_card_variant_textless" size="768.000000 1166.000000" />
+    <ImageTarget name="deadpool_vol_7_1_textless" size="922.000000 1400.000000" />
+    <ImageTarget name="hulk_vol_5_1_ebay_exclusive_variant_textless" size="890.000000 1342.000000" />
+    <ImageTarget name="wolverine_weapon_x_files_vol_1_1_textless" size="400.000000 607.000000" />
+    <ImageTarget name="superior_spider-man_vol_1_31_textless" size="784.000000 1200.000000" />
+    <ImageTarget name="secret_war_vol_1_3_textless" size="665.000000 1000.000000" />
+    <ImageTarget name="iron_man_vol_3_76_textless" size="1000.000000 1503.000000" />
+  </Tracking>
+</QCARConfig>
