@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172c39fb66ec44148a86296ac8fc4881, type: 3}
+  m_Name: Deadpool
+  m_EditorClassIdentifier: 
+  name: Deadpool
+  wiki: "Wade Wilson is a human mutate capable of healing any injuries no matter how
+    fatal they are. Wade got his healing factors embeded into his DNA from Wolverine's.
+    During childhood, Wade had family issues that leads him to grow up to be a thug
+    and criminal. Wade eventually became a mercenary after leaving home, he appeares
+    to have joined the U.S. Army Special Forces but despite his superior skills, he
+    was drummed out for not following orders that conflicted with his moral code.
+    Wade was invited to join a clandestine group of CIA-sponsored mercenary assassins
+    thanks to his military record, assured that his targets would all deserve death.
+    Learning that he had developed 34 inoperable cancerous tumors, he even gave up
+    his chemo treatments, not wishing to prolong things. Back in Canada, he was offered
+    hope in the form of Department K, a special weapons development branch of the
+    Canadian government. Wilson became a test subject in Department K\u2019s branch
+    of the joint U.S./Canadian superhuman enhancement project, the Weapon X Program;
+    his cancer was temporarily arrested via the implantation of a healing factor derived
+    from another Department K agent, the mutant adventurer Wolverine.  Wilson was
+    active in a covert field unit alongside the near-invulnerable Sluggo and the cyborgs
+    Kane and Slayback. Vanessa herself was later affiliated with the team after having
+    manifested mutant shapeshifting abilities, calling herself Copycat.  During one
+    mission, Wilson killed his teammate Slayback. Shortly thereafter, his healing
+    factor began to destabilise, bringing his cancer back from remission and causing
+    deformities in his flesh. As a result, he was rejected from the Weapon X Program
+    and sent to the Hospice, allegedly a government facility where failed superhuman
+    operatives were treated. However, unknown to the Canadian government, the Hospice's
+    patients served as experimental subjects for Doctor Killebrew and his sadistic
+    assistant Ajax (known then as the Attending), with the patients placing bets in
+    a \"deadpool\" as to how long each subject would live. Killebrew subjected Wilson
+    to various torturous experiments for his own deranged satisfaction.  In due course,
+    Wilson formed a romantic relationship with the cosmic entity Death, who regarded
+    him as a kindred spirit. Wilson started trying to kill himself, to join Death
+    - going so far as to start taunting Ajax by saying his real name (Francis) over
+    and over, which earned him the respect of his fellow Hospice patients. Then Ajax,
+    angered by Wilson\u2019s taunts, lobotomized Worm, the closest thing Wilson had
+    to a friend. At Death\u2019s prompting, Wilson killed Worm to end his suffering.
+    \ However, under Killebrew's rules, any patient who killed another was to be executed;
+    Ajax subsequently tore out Wilson\u2019s heart and left him for dead, but Wilson\u2019s
+    thirst for vengeance was so strong that it jump started his healing factor, regenerating
+    his heart, although not curing his scarred body. Wilson then escaped the now-empty
+    room and attacked the guards, making his way to Ajax. Wilson shot him in the chest
+    with two automatic rifles, leaving him for dead. Taking the name Deadpool, he
+    escaped from the Hospice with his fellow patients. Following his escape, Deadpool
+    served for a time as an enforcer alongside the surgically altered criminal Hammerhead.
+    He soon returned to his freelance mercenary activities, donning a costume in keeping
+    with his new identity, \"Deadpool\"."
+  powerGrid: {fileID: 21300000, guid: 41f7d7a365c8948d393ce622ef17592b, type: 3}
+  history: []
+  powers:
+    intelligence: 0
+    strength: 0
+    speed: 0
+    durability: 0
+    energyProjection: 0
+    fightingSkills: 0

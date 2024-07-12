@@ -6,6 +6,7 @@ public class UIManager : MonoBehaviour {
     [SerializeField] GameObject characterInfoPanel;
     [SerializeField] Text nameText;
     [SerializeField] Text historyText;
+    [SerializeField] Image powerGridImage;
 
     #region Singleton
         public static UIManager instance;
@@ -63,5 +64,8 @@ public class UIManager : MonoBehaviour {
     }
     public void SetHistoryText(string _history) {
         historyText.text = _history;
+    }
+    public void SetPowerGridImage(Sprite _powerGridSprite) {
+        powerGridImage.sprite = _powerGridSprite;
     }
 }

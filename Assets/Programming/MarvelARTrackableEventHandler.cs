@@ -23,6 +23,7 @@ public class MarvelARTrackableEventHandler : DefaultTrackableEventHandler {
             GameObject currentARObject = gameObject.transform.GetChild(0).gameObject;
             marvelUIManager.SetNameText(currentARObject.GetComponent<ARData>().arCharacterInfo.name);
             marvelUIManager.SetHistoryText(currentARObject.GetComponent<ARData>().arCharacterInfo.wiki);
+            marvelUIManager.SetPowerGridImage(currentARObject.GetComponent<ARData>().arCharacterInfo.powerGrid);
         }
     }
 
